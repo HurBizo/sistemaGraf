@@ -1,0 +1,3 @@
+Tutorial comandos básicos para sqlite3:
+https://pythonclub.com.br/guia-rapido-comandos-sqlite3.html
+
